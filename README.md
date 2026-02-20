@@ -4,4 +4,5 @@ Repositorio académico de la asignatura de Sistemas Operativos. Contiene prácti
 Integrantes del equipo Estrella
 
 Daniel León Mazo : 1007706684
+
 Katherine Rodríguez Mejía : 1001361246
